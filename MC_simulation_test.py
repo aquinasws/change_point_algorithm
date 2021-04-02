@@ -12,7 +12,7 @@ from FindChangePts import *
 """
 _NUM_SAMPLE = 7000
 _TRUE_CHANGE_POINT_LIST = [507, 1200, 1995, 2500, 3000]
-_CENSORING_RATE = 0.25
+_CENSORING_RATE = 0.05
 
 
 def main():
